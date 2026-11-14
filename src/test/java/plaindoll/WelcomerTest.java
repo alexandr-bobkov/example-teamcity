@@ -21,7 +21,7 @@ public class WelcomerTest {
         assertThat(welcomer.sayFarewell(), containsString("hunter"));
     }
     
-    // Ваш новый тест:
+    // Мой новый тест:
     @Test
     public void welcomerSaysHunterInNewMethod() {
         assertThat(welcomer.sayHunter(), containsString("hunter"));

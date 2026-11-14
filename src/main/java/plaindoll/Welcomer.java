@@ -14,7 +14,7 @@ public class Welcomer {
         return "something in the way";
     }
     
-    // Ваш новый метод:
+    // Мой новый метод:
     public String sayHunter() {
         return "I am a skilled hunter from Yharnam";
     }
